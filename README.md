@@ -1,4 +1,4 @@
-# IAM-labs
+# Class activity Reproduction
 The introductory class covered identity and access management using group policies to allow or restrict objects (users) from accessing resources.
 This is a reproduction of the class activity to enforce a least-privilege policy. 
 An S3 bucket, policy, and user group were created. A user was also created and assigned to the user group that had a policy assigned to test the permissions available to the user.
